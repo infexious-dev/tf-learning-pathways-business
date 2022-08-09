@@ -2,8 +2,8 @@
   "Technologies": [],
   "Categories": [
     {
-      "Id": "2f44c3db-1f36-456a-b25e-bc286ea31390",
-      "Name": "Company Knowledge",
+      "Id": "ba9c4a9c-fad7-4df7-b21e-1f38d68e77de",
+      "Name": "Business Development",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -11,8 +11,8 @@
       "SubCategories": []
     },
     {
-      "Id": "618da7fa-0ed2-4653-9dfd-271c3bbe3a44",
-      "Name": "Computer Science",
+      "Id": "7733c7e9-7ce4-46c0-9828-767b7213034c",
+      "Name": "Business Management",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -20,8 +20,8 @@
       "SubCategories": []
     },
     {
-      "Id": "b9c5429f-aae2-48fb-aa36-b834587d54fe",
-      "Name": "Data Science",
+      "Id": "b9200f96-6c3a-442f-aa75-5ab22b16d269",
+      "Name": "Compliance Training",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -29,26 +29,8 @@
       "SubCategories": []
     },
     {
-      "Id": "e322b643-61b8-4f65-906d-802ff5ecb3fb",
-      "Name": "Industry Knowledge",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "",
-      "SubCategories": []
-    },
-    {
-      "Id": "5e4e57a8-af4b-45d9-b8de-d8d17f64075e",
-      "Name": "Modelling",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "",
-      "SubCategories": []
-    },
-    {
-      "Id": "2656fb40-f250-4eee-935f-84d684fef487",
-      "Name": "Office 365",
+      "Id": "5e4d4a94-1e32-4e40-9df8-1cf9509abcd7",
+      "Name": "People Management",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
